@@ -1,0 +1,35 @@
+/******************************************************************
+
+Stylesheet: 1280px以上のモニタで適用
+
+******************************************************************/
+.access{
+  height: 142vh;
+}
+
+.sponsor {
+    height: 150vh;
+}
+
+.sponsor__video {
+    height: 135vh;
+}
+
+.sponsor__img{
+  height:80vh;
+}
+
+.sponsor__des {
+    height: 10vh;
+}
+
+.description {
+    // margin: 250px px 0 300px;
+    position: absolute;
+    top: 60%;
+    width:80%;
+    // margin:0 auto;
+    & p{
+      font-size:23px;
+    }
+}

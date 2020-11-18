@@ -1,0 +1,23 @@
+/******************************************************************
+
+Stylesheet: 600px以上のタブレットやモニタで適用
+
+******************************************************************/
+.flex {
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+
+.sponsor__img{
+height:40vh;
+}
+
+.des_btn{
+    top:130px;
+}
+.sponsor__video{
+    height:95vh;
+}
+.top{
+background-image: url(../image/top_bgi.jpg);
+}
